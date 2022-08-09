@@ -1,0 +1,6 @@
+---
+apiVersion: kbld.k14s.io/v1alpha1
+kind: Config
+destinations:
+- image: simple-app-image
+  newImage: rohitagg2020/simple-app
